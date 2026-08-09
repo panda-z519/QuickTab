@@ -1,3 +1,5 @@
+
+
 # QuickTab
 
 ![Release](https://img.shields.io/github/v/release/zhangsiqiang519/QuickTab?label=release)
@@ -67,6 +69,7 @@ QuickTab 把多个浏览器的打开标签页、书签和历史记录集合到�
 2. 打开 DMG，将 `QuickTab.app` 拖入 `Applications`。
 3. 启动 QuickTab。
 4. 如果系统提示应用未验证，在 `系统设置 > 隐私与安全性` 中允许打开。
+5. 按首次启动向导连接 Chrome 或 Edge 扩展（Safari 配置请参见下方“浏览器连接”章节）。
 
 ### Windows
 
