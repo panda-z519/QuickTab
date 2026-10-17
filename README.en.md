@@ -1,6 +1,6 @@
 # QuickTab
 
-![Release](https://img.shields.io/github/v/release/zhangsiqiang519/QuickTab?label=release)
+![Release](https://img.shields.io/github/v/release/panda-z519/QuickTab?label=release)
 ![macOS](https://img.shields.io/badge/macOS-supported-black.svg)
 ![Windows](https://img.shields.io/badge/Windows-supported-0078D4.svg)
 ![Chrome](https://img.shields.io/badge/Chrome-supported-4285F4.svg)
@@ -49,7 +49,7 @@ QuickTab collects open tabs, bookmarks, and history from multiple browsers into 
 
 Download the latest version from GitHub Releases:
 
-[Download QuickTab](https://github.com/zhangsiqiang519/QuickTab/releases/latest)
+[Download QuickTab](https://github.com/panda-z519/QuickTab/releases/latest)
 
 Release builds usually include:
 

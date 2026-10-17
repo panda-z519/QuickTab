@@ -1,6 +1,6 @@
 # QuickTab
 
-![Release](https://img.shields.io/github/v/release/zhangsiqiang519/QuickTab?label=release)
+![Release](https://img.shields.io/github/v/release/panda-z519/QuickTab?label=release)
 ![macOS](https://img.shields.io/badge/macOS-supported-black.svg)
 ![Windows](https://img.shields.io/badge/Windows-supported-0078D4.svg)
 ![Chrome](https://img.shields.io/badge/Chrome-supported-4285F4.svg)
@@ -49,7 +49,7 @@ QuickTab 把多个浏览器的打开标签页、书签和历史记录集合到�
 
 从 GitHub Releases 下载最新版本：
 
-[下载 QuickTab 最新版](https://github.com/zhangsiqiang519/QuickTab/releases/latest)
+[下载 QuickTab 最新版](https://github.com/panda-z519/QuickTab/releases/latest)
 
 发布包通常包括：
 
